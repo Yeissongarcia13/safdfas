@@ -1,0 +1,27 @@
+div {
+    background-color: blue;
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 65px;
+}
+
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.imagen-de-gatos {
+    width: 175px;
+    border-width: 25px;
+    border-color: cadetblue;
+    border-style: double;
+}
+
+.bordes-redondeados {
+    border-radius: 55%;
+}
